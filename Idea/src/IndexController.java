@@ -7,5 +7,4 @@ public class IndexController {
 
     }
 
-    public void test(){}
 }
