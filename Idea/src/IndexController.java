@@ -6,4 +6,6 @@ public class IndexController {
     public void demo(){
 
     }
+
+    public void test(){}
 }
